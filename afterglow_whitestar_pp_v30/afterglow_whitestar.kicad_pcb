@@ -6204,9 +6204,9 @@
       (net 63 "Net-(J3-Pad9)") (pinfunction "Pin_9") (pintype "passive") (tstamp 8f12a12b-2ee3-4bbf-9f61-75ac8038d169))
     (pad "10" thru_hole oval (at 35.64 0 270) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask)
       (net 60 "/18V_IN") (pinfunction "Pin_10") (pintype "passive") (tstamp 1817e3b9-cdb6-4baf-a48c-a6e8ad32ace3))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0010_1x10_P3.96mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-10A_1x10_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.56 1.56 1.156))
       (rotate (xyz 0 0 0))
     )
   )
@@ -6536,9 +6536,9 @@
       (net 59 "/RI10") (pinfunction "Pin_11") (pintype "passive") (tstamp afd1d95a-77ca-44b9-86e0-8a2f2596d772))
     (pad "12" thru_hole oval (at 43.56 0 90) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_12") (pintype "passive") (tstamp cc90bdd6-c466-4367-be98-ea09d0f0c2e6))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0012_1x12_P3.96mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-12A_1x12_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.56 1.56 1.56))
       (rotate (xyz 0 0 0))
     )
   )
@@ -6699,6 +6699,11 @@
       (net 60 "/18V_IN") (pintype "passive") (tstamp 8f8c4061-2489-4125-904b-0f21b5cd5ba1))
     (pad "2" thru_hole oval (at 11.25 0) (size 2 4) (drill oval 0.8 2) (layers *.Cu *.Mask)
       (net 1 "/18V") (pintype "passive") (tstamp 4378c6ec-771b-4643-b0ea-2ae78081843f))
+    (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.step"
+      (offset (xyz -11.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
@@ -7247,9 +7252,9 @@
       (net 75 "/J13_CO8") (pinfunction "Pin_9") (pintype "passive") (tstamp 71f35183-b693-47d9-97f2-cac174ea46d1))
     (pad "10" thru_hole oval (at 35.64 0 270) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask)
       (net 60 "/18V_IN") (pinfunction "Pin_10") (pintype "passive") (tstamp 46af6f52-ad4e-482e-a3ec-05f03c4f0094))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0010_1x10_P3.96mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-10A_1x10_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.56 1.56 1.56))
       (rotate (xyz 0 0 0))
     )
   )
@@ -7411,9 +7416,9 @@
       (net 112 "/switcher/18V") (pinfunction "Pin_6") (pintype "passive") (tstamp 1bbab6b9-127f-480d-ad3a-06d78fcd6c85))
     (pad "7" thru_hole oval (at 23.76 0 90) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask)
       (net 98 "+5V") (pinfunction "Pin_7") (pintype "passive") (tstamp 16b01f96-a346-444a-a6e9-16de2838e861))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0007_1x07_P3.96mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-07A_1x07_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.56 1.56 1.56))
       (rotate (xyz 0 0 0))
     )
   )
@@ -7540,9 +7545,9 @@
       (net 74 "/J12_RO10") (pinfunction "Pin_11") (pintype "passive") (tstamp 97d36867-a424-4447-abf0-bd647804fbbf))
     (pad "12" thru_hole oval (at 43.56 0 90) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_12") (pintype "passive") (tstamp 1c61f331-fa92-48e1-9819-ab0be4ebf718))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0012_1x12_P3.96mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-12A_1x12_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1.56 1.56 1.56))
       (rotate (xyz 0 0 0))
     )
   )
