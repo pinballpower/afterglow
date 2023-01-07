@@ -7729,6 +7729,11 @@
       (net 92 "Net-(D17-Pad1)") (pintype "passive") (tstamp 58a4bb48-61d3-4333-ac7e-2ee5a5edbb9d))
     (pad "2" thru_hole oval (at 11.25 0 180) (size 2 4) (drill oval 0.8 2) (layers *.Cu *.Mask)
       (net 1 "/18V") (pintype "passive") (tstamp d8e379ff-7abf-4dd6-8679-f89db82faa6a))
+    (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.step"
+      (offset (xyz -11.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_TO_SOT_THT:TO-220-3_Vertical" (layer "F.Cu")
