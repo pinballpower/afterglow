@@ -1,0 +1,6 @@
+jlcpcb
+*backups/*.zip
+**/production/*
+**/*-bak
+**/*-backups
+

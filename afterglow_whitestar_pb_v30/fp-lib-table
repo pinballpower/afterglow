@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "afterglow")(type "KiCad")(uri "$(KIPRJMOD)/afterglow.pretty")(options "")(descr ""))
-  (lib (name "afterglow_nano_smd")(type "KiCad")(uri "/home/smyp/data/elektronikbaschtel/afterglow/afterglow_nano_smd")(options "")(descr ""))
-  (lib (name "Fuse_Holder")(type "KiCad")(uri "C:/Users/matuschd/devel/kicad/external-libs/Fuse_Holder.pretty")(options "")(descr ""))
-)
